@@ -1,0 +1,5 @@
+For this project I have chosen to use OpenStreetMap data from the Beaverton Oregon region. 
+Map of extracted region: https://www.openstreetmap.org/relation/423111
+At the suggestion of the OpenStreetMap webpage, I used mapzen.com to extract the OSM data file. https://mapzen.com/
+
+I chose the Beaverton Oregon region as it is where I have lived for the past 16 years.  I felt having an intimate knowledge of the area of study would be helpful.

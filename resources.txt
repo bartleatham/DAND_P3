@@ -1,0 +1,18 @@
+Location of extraction:
+https://www.openstreetmap.org/relation/423111
+
+Used Mapzen to Extract actual data, as recommended from openstreetmap:
+https://mapzen.com/
+
+Referred to OSM.Wiki for further learning on OSM formatting
+https://wiki.openstreetmap.org/wiki/OSM_XML
+
+Referred to Python Docs for xml.etree learning
+https://docs.python.org/2/library/xml.etree.elementtree.html
+
+Referred to Stackoverflow.com repeatedly for help with python and sql coding practices.
+https://stackoverflow.com/
+
+Study of TRI_MET involvement in OSM project:
+https://prezi.com/jgj6cl1rtwm5/openstreetmap-and-the-trimets-open-source-trip-planner/
+
